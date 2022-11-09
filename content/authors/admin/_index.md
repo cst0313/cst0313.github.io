@@ -1,43 +1,59 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Jeffrey Chang 張善濤
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Jeffrey Sin To
+last_name: Chang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: High School Senior 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: St. Paul's College, Hong Kong
+    url: https://www.spc.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include microplastics and physics-informed neural networks.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Climate Modelling
+  - Underwater Robotics
+  - Quantum Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Quantum Mechanics (In progress)
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2022
+    - course: Brain Machine Interfaces - Miguel Nicolelis
+      institution: World Science Scholars 
+      year: 2022
+    - course: How Black Holes Became Real - Priyamvada Natarajan
+      institution: World Science Scholars
+      year: 2022
+    - course: Mathematics, The Language of Nature - Edward Frenkel
+      institution: World Science Scholars
+      year: 2022
+    - course: Taming Light with Metamaterials - Andrea Alù
+      institution: World Science Scholars
+      year: 2022
+    - course: Space, Time and Matter - Brian Greene
+      institution: World Science Scholars
+      year: 2022
+    - course: Towards Differential Geometry
+      institution: Chinese University of Hong Kong
+      year: 2020
+    - course: Number Theory and Cryptography
+      institution: Chinese University of Hong Kong
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,23 +62,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:jeffreychang@ieee.org'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
+    link: https://www.linkedin.com/in/c-jeffrey-2b994a205/
+    label: Feel free to connect me on LinkedIn!
+    display:
+      header: true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/cst0313
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram.com/_cst_jeffrey_0313
+    label: Follow me on Instagram
+    display:
+      header: true
+  - icon: spotify
+    icon_pack: fab
+    link: https://open.spotify.com/user/vjpolj1csgykwm3hslxlrp54o?si=c93b32b321a64c47
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
@@ -77,8 +95,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jeffrey Chang is a high school senior at St. Paul's College, Hong Kong. He's passionate about solving the microplastics problem across the ocean. He engages in climate modelling with physics-informed neural networks, hoping to improve them through quantum algorithms. He also designs software algorithms for underwater robots (both Remotely Operated Vehicles and Automatic Underwater Vehicles), and is especially interested in robotic fish.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+#Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
