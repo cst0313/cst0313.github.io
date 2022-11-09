@@ -37,7 +37,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Chang Jeffrey Sin To. This work is licensed under {}'
+    notice: '© {2022} Chang Jeffrey Sin To. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
