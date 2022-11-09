@@ -1,9 +1,3 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
 
 appearance:
   theme_day: minimal
@@ -18,8 +12,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Chang Jeffrey Sin To's Personal Website.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +37,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2022} Chang Jeffrey Sin To. This work is licensed under {}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,8 +47,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Nov 9, 2022'
+  time_format: '3:27 PM'
   address_format: en-us
 
 # Site features
@@ -68,7 +62,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cst0313/cst0313.github.io'
     content_dir: content
     branch: main
   avatar:
