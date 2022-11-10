@@ -63,6 +63,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jeffreychang@ieee.org'
+    label: My Mail
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/c-jeffrey-2b994a205/
