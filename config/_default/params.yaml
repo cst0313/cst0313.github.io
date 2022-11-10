@@ -12,7 +12,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Chang Jeffrey Sin To's Personal Website.'
+    description: Chang Jeffrey Sin To's Personal Website.
     twitter: ''
   analytics:
     google_analytics: ''
@@ -62,7 +62,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/cst0313/cst0313.github.io'
+    url: https://github.com/cst0313/cst0313.github.io
     content_dir: content
     branch: main
   avatar:
