@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Python
   - description: 
-    icon: camera-retro
+    icon: C++_Logo
     icon_pack: fas
     name: C++
 # Uncomment to use emoji icons.
