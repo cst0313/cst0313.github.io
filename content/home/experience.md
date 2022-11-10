@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Nov 2022
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -26,7 +26,7 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Hong Kong
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -40,7 +40,7 @@ experience:
     company: University X
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Hong Kong
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
