@@ -28,6 +28,10 @@ feature:
     icon: C++_Logo
     icon_pack: custom
     name: C++
+  - description: 
+    icon: gears
+    icon_pack: fas
+    name: Underwater robotics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
