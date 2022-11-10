@@ -17,12 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: chart-line
-    icon_pack: fas
-    name: R
-  - description: 
     icon: python
-    icon_pack: fas
+    icon_pack: fad
     name: Python
   - description: 
     icon: C++_Logo
@@ -31,7 +27,7 @@ feature:
   - description: 
     icon: gears
     icon_pack: fas
-    name: Underwater robotics
+    name: Underwater Robotics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
