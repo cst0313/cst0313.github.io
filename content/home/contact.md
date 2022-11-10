@@ -11,46 +11,37 @@ weight: 130
 title: Contact
 subtitle:
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
   # Email form provider
+content:
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      id: mnqrlrab
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jeffreychang@ieee.org
+  phone: +852 5542 4135
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 560 King's Road
+    city: Hong Kong
+    region: HK
+    postcode: ''
+    country: Hong Kong
+    country_code: HK
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 20/F, Room 2005
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Weekdays 16:00 to 20:00'
+    - 'Weekends 09:00 to 20:00'
+  appointment_url: 'https://calendly.com/jeffrey__chang'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Zoom?
+      link: 'https://us05web.zoom.us/j/6159622769?pwd=Nnh4alg0N1R4ekYrT1hMdWFRRHQ1dz09'
+
 
 design:
   columns: '2'
