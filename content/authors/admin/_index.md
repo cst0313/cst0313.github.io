@@ -28,7 +28,7 @@ interests:
   - Quantum Computing
 
 # Education to show in About widget
-courses:
+education:
   courses:
     - course: Quantum Mechanics (In progress)
       institution: Massachusetts Institute of Technology
