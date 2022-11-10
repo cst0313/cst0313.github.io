@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Yep, me'
+  - 'me'
 
 
 date: '2021-12-21T13:38:00Z'
