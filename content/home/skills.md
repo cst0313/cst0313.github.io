@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: python
-    icon_pack: fad
+    icon: Python_logo
+    icon_pack: custom
     name: Python
   - description: 
     icon: C++_Logo
