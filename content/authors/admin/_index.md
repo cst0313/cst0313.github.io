@@ -97,6 +97,5 @@ highlight_name: true
 
 Jeffrey Chang is a high school senior at St. Paul's College, Hong Kong. He's passionate about solving the microplastics problem across the ocean. He engages in climate modelling with physics-informed neural networks, hoping to improve them through quantum algorithms. He also designs software algorithms for underwater robots (both Remotely Operated Vehicles and Automatic Underwater Vehicles), and is especially interested in robotic fish.
 
-#Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
