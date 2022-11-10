@@ -79,8 +79,6 @@ social:
     icon_pack: fab
     link: https://instagram.com/_cst_jeffrey_0313
     label: Follow me on Instagram
-    display:
-      header: true
   - icon: spotify
     icon_pack: fab
     link: https://open.spotify.com/user/vjpolj1csgykwm3hslxlrp54o?si=c93b32b321a64c47
