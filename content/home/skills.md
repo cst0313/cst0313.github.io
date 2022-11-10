@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 
     icon: chart-line
-    icon_pack: fab
+    icon_pack: fas
     name: R
   - description: 
     icon: python
@@ -26,7 +26,7 @@ feature:
     name: Python
   - description: 
     icon: C++_Logo
-    icon_pack: fas
+    icon_pack: custom
     name: C++
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
