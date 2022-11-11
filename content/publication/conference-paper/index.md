@@ -69,7 +69,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 If we denote {{< math >}}$a_n${{< /math >}} as the optimal number of moves to solve the puzzle with {{< math >}}$n${{< /math >}} pegs, {{< spoiler text="The recurrence relation for the classical variant is" >}} {{< math >}}$a_n=2a_{n-1}+1${{< /math >}} {{< /spoiler >}}
