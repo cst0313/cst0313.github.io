@@ -2,28 +2,28 @@
 $a_n$ as the optimal number of moves to solve the puzzle with
 $n$ pegs, &lt;details class="spoiler " id="spoiler-2">
 &lt;summary>The recurrence relation for the classical variant is&lt;/summary>
-&lt;p>$a_n=2a_{n-1}+1$&lt;/p>
+&lt;p>$a_n=2a_{n-1}+1.$&lt;/p>
 &lt;/details>&lt;/p>
 &lt;details class="spoiler " id="spoiler-3">
 &lt;summary>The recurrence relation for the adjacent pegs variant is&lt;/summary>
-&lt;p>$a_n=3a_{n-1}+2$&lt;/p>
+&lt;p>$a_n=3a_{n-1}+2.$&lt;/p>
 &lt;/details>
 &lt;p>For the cyclic variant, we additionally define
 $b_n$ as the number of moves required to move
 $n$ pegs to its next clockwise peg.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-$a_n$ is &lt;strong>not&lt;/strong> $2b_n$. You can verify with the case $n=2$, obtaining $a_2=7$ and $b_2=5$ (try it!)
+$a_n$ is &lt;strong>not&lt;/strong> $2b_n$. You can verify with the case $n=2$, obtaining $a_2=7$ and $b_2=5.$ (try it!)
 &lt;/div>
 &lt;/div>
 &lt;details class="spoiler " id="spoiler-7">
 &lt;summary>The recurrence relation for the cyclic variant is&lt;/summary>
-&lt;p>\left{
+&lt;p>$\left {
 \begin{array}{ll}
-1, &amp;amp; \mbox{if $x&amp;lt;0$}.\
+1, &amp;amp; \mbox{if $x&amp;lt;0$}. \
 0, &amp;amp; \mbox{otherwise}.
 \end{array}
-\right.&lt;/p>
+\right.$&lt;/p>
 &lt;/details>
 &lt;div class="alert alert-note">
 &lt;div>
