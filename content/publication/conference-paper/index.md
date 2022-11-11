@@ -79,20 +79,21 @@ If we denote {{< math >}}$a_n${{< /math >}} as the optimal number of moves to so
 For the cyclic variant, we additionally define {{< math >}}$b_n${{< /math >}} as the number of moves required to move {{< math >}}$n${{< /math >}} pegs to its next clockwise peg.
 
 {{% callout note %}}
-{{< math >}}$a_n$ is *not* 2$b_n$. You can verify with the case $n=2$, with $a_2=7$ and $b_2=5$ (try it!){{< /math >}}
+{{< math >}}$a_n$ is **not** $2b_n$. You can verify with the case $n=2$, obtaining $a_2=7$ and $b_2=5$ (try it!){{< /math >}}
 {{% /callout %}}
 
-{{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}} $\left \{
-    \begin{array}{l}
-      a_n=2a_{n-1}+b_{n-1}+2\\
-      b_n=2a_{n-1}+1
+{{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}}\left\{
+    \begin{array}{ll}
+      1, & \mbox{if $x<0$}.\\
+      0, & \mbox{otherwise}.
     \end{array}
-  \right.\\
-  \Rightarrow a_n=2a_{n-1}+b_{n-1}+2=2a_{n-1}+(2a_{n-2}+1)+2=2a_{n-1}+2a_{n-2}+3.$
+  \right.
 {{< /math >}}{{< /spoiler >}}
 
 {{% callout note %}}
-Try thinking about the recurrence relation of these variants when there are more than {{< math >}}$3${{< /math >}} rods-
+{{< math >}}
+Try thinking about the recurrence relation of these variants when there are more than $3$ rods-
+{{< /math >}}
 {{% /callout %}}
 
 For a detailed explanation and illustrations, please refer to [the article](https://figshare.com/articles/journal_contribution/Moves_required_to_solve_Tower_of_Hanoi_and_2_variants_pdf/17091965).
