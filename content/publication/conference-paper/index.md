@@ -83,7 +83,7 @@ For the cyclic variant, we additionally define {{< math >}}$b_n${{< /math >}} as
 {{% /callout %}}
 
 {{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}}$$a_n=2a_{n-1}+b_{n-1}+2,
-b_n=2a_{n-1}+1.\\ 
+b_n=2a_{n-1}+1.$${{< /math >}}{{< math >}}$$
 \Rightarrow a_n=2a_{n-1}+(2a_{n-2}+1)+2$$
 {{< /math >}}{{< /spoiler >}}
 
