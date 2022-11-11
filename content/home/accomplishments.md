@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://courses.nvidia.com/certificates/564f2f8dded643e5a5ff4932c77b7b3f/
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-04-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Nvidia
+    organization_url: https://www.nvidia.org
+    title: Fundamentals of Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://courses.edx.org/certificates/4604df24b7064370b895265941ccbc22
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_start: '2022-02-01'
+    description: ''
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: Engineering Calculus and Differential Equations
+    url: https://www.edx.org/course/engineering-calculus-and-differential-equations
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
