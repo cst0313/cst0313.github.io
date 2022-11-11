@@ -18,9 +18,11 @@ $a_n$ is &lt;strong>not&lt;/strong> $2b_n$. You can verify with the case $n=2$, 
 &lt;/div>
 &lt;details class="spoiler " id="spoiler-7">
 &lt;summary>The recurrence relation for the cyclic variant is&lt;/summary>
-&lt;p>$$a_n=2a_{n-1}+b_{n-1}+2,
-b_n=2a_{n-1}+1.\
+&lt;p>&lt;p>$$a_n=2a_{n-1}+b_{n-1}+2,
+b_n=2a_{n-1}+1.$$&lt;/p>
+&lt;p>$$
 \Rightarrow a_n=2a_{n-1}+(2a_{n-2}+1)+2$$&lt;/p>
+&lt;/p>
 &lt;/details>
 &lt;div class="alert alert-note">
 &lt;div>
