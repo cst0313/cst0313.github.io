@@ -99,4 +99,4 @@ highlight_name: true
 Jeffrey Chang is a high school senior at St. Paul's College, Hong Kong. He's passionate about solving the microplastics problem across the ocean. He engages in climate modelling with physics-informed neural networks, hoping to improve them through quantum algorithms. He also designs software algorithms for underwater robots (both Remotely Operated Vehicles and Automatic Underwater Vehicles), and is especially interested in robotic fish.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
