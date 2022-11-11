@@ -23,17 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://courses.nvidia.com/certificates/58d7acf45d5c4d3ba453972dcb2bedee/
+    date_end: '2022-07-01'
+    date_start: ''
+    description: ''
+    organization: Nvidia
+    organization_url: https://www.nvidia.org
+    title: Getting Started with AI on Jetson Nano
+    url: ''
   - certificate_url: https://courses.nvidia.com/certificates/564f2f8dded643e5a5ff4932c77b7b3f/
-    date_end: ''
-    date_start: '2022-04-01'
+    date_end: '2022-04-01'
+    date_start: ''
     description: ''
     organization: Nvidia
     organization_url: https://www.nvidia.org
     title: Fundamentals of Deep Learning
     url: ''
   - certificate_url: https://courses.edx.org/certificates/4604df24b7064370b895265941ccbc22
-    date_end: ''
-    date_start: '2022-02-01'
+    date_end: '2022-02-01'
+    date_start: ''
     description: ''
     organization: edX
     organization_url: https://www.edx.org
