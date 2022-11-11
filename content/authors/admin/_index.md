@@ -95,18 +95,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-design:
-  background:
-    image: webb1.jpeg
-    image_darken: 0.6
-    #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: cover
-    # Options include `left`, `center` (default), or `right`.
-    image_position: center
-    # Use a fun parallax-like fixed background effect on desktop? true/false
-    image_parallax: true
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+
 Jeffrey Chang is a high school senior at St. Paul's College, Hong Kong. He's passionate about {{< hl >}}solving the microplastics problem{{< /hl >}}across the ocean. He engages in climate modelling with {{< hl >}}physics-informed neural networks{{< /hl >}}, hoping to improve them through quantum algorithms. He also designs software algorithms for {{< hl >}}underwater robots{{< /hl >}} (both Remotely Operated Vehicles and Automatic Underwater Vehicles), and is especially interested in robotic fish.
 
 
