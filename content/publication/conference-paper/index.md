@@ -29,7 +29,7 @@ publication_short: In *figshare*
 abstract: We describe the minimal number of moves required to solve the traditional Tower of Hanoi game, the adjacent pegs variant, and the Cyclic Hanoi variant, by using recurrent relations and generating functions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We describe the minimal number of moves required to solve the traditional Tower of Hanoi game, the adjacent pegs variant, and the Cyclic Hanoi variant, by using recurrent relations and generating functions.
 
 tags: []
 
