@@ -85,9 +85,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/nov_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -99,4 +99,4 @@ highlight_name: true
 Jeffrey Chang is a high school senior at St. Paul's College, Hong Kong. He's passionate about solving the microplastics problem across the ocean. He engages in climate modelling with physics-informed neural networks, hoping to improve them through quantum algorithms. He also designs software algorithms for underwater robots (both Remotely Operated Vehicles and Automatic Underwater Vehicles), and is especially interested in robotic fish.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nov_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
