@@ -2,11 +2,11 @@
 $a_n$ as the optimal number of moves to solve the puzzle with
 $n$ pegs, &lt;details class="spoiler " id="spoiler-2">
 &lt;summary>The recurrence relation for the classical variant is&lt;/summary>
-&lt;p>$a_n=2a_{n-1}+1.$&lt;/p>
+&lt;p>$$a_n=2a_{n-1}+1.$$&lt;/p>
 &lt;/details>&lt;/p>
 &lt;details class="spoiler " id="spoiler-3">
 &lt;summary>The recurrence relation for the adjacent pegs variant is&lt;/summary>
-&lt;p>$a_n=3a_{n-1}+2.$&lt;/p>
+&lt;p>$$a_n=3a_{n-1}+2.$$&lt;/p>
 &lt;/details>
 &lt;p>For the cyclic variant, we additionally define
 $b_n$ as the number of moves required to move
