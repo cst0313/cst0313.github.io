@@ -79,7 +79,7 @@ If we denote {{< math >}}$a_n${{< /math >}} as the optimal number of moves to so
 For the cyclic variant, we additionally define {{< math >}}$b_n${{< /math >}} as the number of moves required to move {{< math >}}$n${{< /math >}} pegs to its next clockwise peg.
 
 {{% callout note %}}
-{{< math >}}$a_n${{< /math >}} is *not* {{< math >}}2$b_n${{< /math >}}. You can verify with the case {{< math >}}$n=2${{< /math >}}
+{{< math >}}$a_n${{< /math >}} is *not* {{< math >}}2$b_n${{< /math >}}. You can verify with the case {{< math >}}$n=2$, with $a_2=7$ and $b_2=5$ (try it!){{< /math >}}
 {{% /callout %}}
 
 {{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}}  \left\{
