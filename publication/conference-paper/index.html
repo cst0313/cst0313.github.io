@@ -11,7 +11,7 @@
 $a_n$ as the optimal number of moves to solve the puzzle with
 $n$ pegs, <details class=spoiler id=spoiler-2><summary>The recurrence relation for the classical variant is</summary><p>a_n=2a_{n-1}+1</p></details></p><details class=spoiler id=spoiler-3><summary>The recurrence relation for the adjacent pegs variant is</summary><p>a_n=3a_{n-1}+2</p></details><p>For the cyclic variant, we additionally define
 $b_n$ as the number of moves required to move
-$n$ pegs to its next clockwise peg.</p><div class="alert alert-note"><div><p>$a_n$ is <em>not</em></p><p>2$b_n$. You can verify with the case</p><p>$n=2$</p></div></div><details class=spoiler id=spoiler-7><summary>The recurrence relation for the cyclic variant is</summary><p>\left{
+$n$ pegs to its next clockwise peg.</p><div class="alert alert-note"><div><p>$a_n$ is <em>not</em></p><p>2$b_n$. You can verify with the case</p><p>$n=2$, with $a_2=7$ and $b_2=5$ (try it!)</p></div></div><details class=spoiler id=spoiler-7><summary>The recurrence relation for the cyclic variant is</summary><p>\left{
 \begin{array}{l}
 a_n=2a_{n-1}+b_{n-1}+2\
 b_n=2a_{n-1}+1

@@ -15,7 +15,7 @@ $n$ pegs to its next clockwise peg.&lt;/p>
 &lt;div>
 &lt;p>$a_n$ is &lt;em>not&lt;/em>&lt;/p>
 &lt;p>2$b_n$. You can verify with the case&lt;/p>
-&lt;p>$n=2$&lt;/p>
+&lt;p>$n=2$, with $a_2=7$ and $b_2=5$ (try it!)&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;details class="spoiler " id="spoiler-7">

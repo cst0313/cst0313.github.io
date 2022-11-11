@@ -26,7 +26,7 @@ $n$ pegs to its next clockwise peg.&lt;/p>
 &lt;div>
 &lt;p>$a_n$ is &lt;em>not&lt;/em>&lt;/p>
 &lt;p>2$b_n$. You can verify with the case&lt;/p>
-&lt;p>$n=2$&lt;/p>
+&lt;p>$n=2$, with $a_2=7$ and $b_2=5$ (try it!)&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;details class="spoiler " id="spoiler-7">
@@ -191,7 +191,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-519674283" class="chart">&lt;/div>
+&lt;div id="chart-493568217" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -200,7 +200,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-519674283', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-493568217', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
