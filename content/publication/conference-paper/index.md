@@ -23,10 +23,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *figshare*
 publication_short: In *figshare*
 
-abstract: We describe the minimal number of moves required to solve the traditional Tower of Hanoi game, the adjacent pegs variant, and the Cyclic Hanoi variant.
+abstract: We describe the minimal number of moves required to solve the traditional Tower of Hanoi game, the adjacent pegs variant, and the Cyclic Hanoi variant, by using recurrent relations and generating functions.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,15 +45,15 @@ url_pdf: 'https://figshare.com/articles/journal_contribution/Moves_required_to_s
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -62,8 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,12 +72,27 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+If we denote {{< math >}}$a_n${{< /math >}} as the optimal number of moves to solve the puzzle with {{< math >}}$n${{< /math >}} pegs, {{< spoiler text="The recurrence relation for the classical variant is" >}}{{< math >}}a_n=2a_{n-1}+1{{< /math >}}{{< /spoiler >}}
+
+{{< spoiler text="The recurrence relation for the adjacent pegs variant is" >}}{{< math >}}a_n=3a_{n-1}+2{{< /math >}}{{< /spoiler >}}
+
+For the cyclic variant, we additionally define {{< math >}}$b_n${{< /math >}} as the number of moves required to move {{< math >}}$n${{< /math >}} pegs to its next clockwise peg.
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{< math >}}$a_n${{< /math >}} is *not* {{< math >}}2$b_n${{< /math >}}. You can verify with the case {{< math >}}$n=2${{< /math >}}
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+{{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}}  \left\{
+    \begin{array}{l}
+      a_n=2a_{n-1}+b_{n-1}+2\\
+      b_n=2a_{n-1}+1
+    \end{array}
+  \right.\\
+  \Rightarrow a_n=2a_{n-1}+b_{n-1}+2=2a_{n-1}+(2a_{n-2}+1)+2=2a_{n-1}+2a_{n-2}+3.
+{{< /math >}}{{< /spoiler >}}
+
+{{% callout note %}}
+Try thinking about the recurrence relation of these variants when there are more than 3 rods-
+{{% /callout %}}
+
+For a detailed explanation and illustrations, please refer to [the article](https://figshare.com/articles/journal_contribution/Moves_required_to_solve_Tower_of_Hanoi_and_2_variants_pdf/17091965).
