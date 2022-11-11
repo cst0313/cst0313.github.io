@@ -72,9 +72,9 @@ projects: []
 slides: ""
 ---
 
-If we denote {{< math >}}$a_n${{< /math >}} as the optimal number of moves to solve the puzzle with {{< math >}}$n${{< /math >}} pegs, {{< spoiler text="The recurrence relation for the classical variant is" >}} {{< math >}}$a_n=2a_{n-1}+1.${{< /math >}} {{< /spoiler >}}
+If we denote {{< math >}}$a_n${{< /math >}} as the optimal number of moves to solve the puzzle with {{< math >}}$n${{< /math >}} pegs, {{< spoiler text="The recurrence relation for the classical variant is" >}} {{< math >}}$$a_n=2a_{n-1}+1.$${{< /math >}} {{< /spoiler >}}
 
-{{< spoiler text="The recurrence relation for the adjacent pegs variant is" >}} {{< math >}}$a_n=3a_{n-1}+2.${{< /math >}} {{< /spoiler >}}
+{{< spoiler text="The recurrence relation for the adjacent pegs variant is" >}} {{< math >}}$$a_n=3a_{n-1}+2.$${{< /math >}} {{< /spoiler >}}
 
 For the cyclic variant, we additionally define {{< math >}}$b_n${{< /math >}} as the number of moves required to move {{< math >}}$n${{< /math >}} pegs to its next clockwise peg.
 
