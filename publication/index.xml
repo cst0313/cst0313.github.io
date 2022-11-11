@@ -13,23 +13,21 @@ $b_n$ as the number of moves required to move
 $n$ pegs to its next clockwise peg.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-$a_n$ is &lt;em>not&lt;/em> 2$b_n$. You can verify with the case $n=2$, with $a_2=7$ and $b_2=5$ (try it!)
+$a_n$ is &lt;strong>not&lt;/strong> $2b_n$. You can verify with the case $n=2$, obtaining $a_2=7$ and $b_2=5$ (try it!)
 &lt;/div>
 &lt;/div>
 &lt;details class="spoiler " id="spoiler-7">
 &lt;summary>The recurrence relation for the cyclic variant is&lt;/summary>
-&lt;p>$\left {
-\begin{array}{l}
-a_n=2a_{n-1}+b_{n-1}+2\
-b_n=2a_{n-1}+1
+&lt;p>\left{
+\begin{array}{ll}
+1, &amp;amp; \mbox{if $x&amp;lt;0$}.\
+0, &amp;amp; \mbox{otherwise}.
 \end{array}
-\right.\
-\Rightarrow a_n=2a_{n-1}+b_{n-1}+2=2a_{n-1}+(2a_{n-2}+1)+2=2a_{n-1}+2a_{n-2}+3.$&lt;/p>
+\right.&lt;/p>
 &lt;/details>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;p>Try thinking about the recurrence relation of these variants when there are more than&lt;/p>
-&lt;p>$3$ rods-&lt;/p>
+Try thinking about the recurrence relation of these variants when there are more than $3$ rods-
 &lt;/div>
 &lt;/div>
 &lt;p>For a detailed explanation and illustrations, please refer to &lt;a href="https://figshare.com/articles/journal_contribution/Moves_required_to_solve_Tower_of_Hanoi_and_2_variants_pdf/17091965" target="_blank" rel="noopener">the article&lt;/a>.&lt;/p></description></item><item><title>An example preprint / working paper</title><link>https://cst0313.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://cst0313.github.io/publication/preprint/</guid><description>&lt;div class="alert alert-note">

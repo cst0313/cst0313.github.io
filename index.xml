@@ -24,23 +24,21 @@ $b_n$ as the number of moves required to move
 $n$ pegs to its next clockwise peg.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-$a_n$ is &lt;em>not&lt;/em> 2$b_n$. You can verify with the case $n=2$, with $a_2=7$ and $b_2=5$ (try it!)
+$a_n$ is &lt;strong>not&lt;/strong> $2b_n$. You can verify with the case $n=2$, obtaining $a_2=7$ and $b_2=5$ (try it!)
 &lt;/div>
 &lt;/div>
 &lt;details class="spoiler " id="spoiler-7">
 &lt;summary>The recurrence relation for the cyclic variant is&lt;/summary>
-&lt;p>$\left {
-\begin{array}{l}
-a_n=2a_{n-1}+b_{n-1}+2\
-b_n=2a_{n-1}+1
+&lt;p>\left{
+\begin{array}{ll}
+1, &amp;amp; \mbox{if $x&amp;lt;0$}.\
+0, &amp;amp; \mbox{otherwise}.
 \end{array}
-\right.\
-\Rightarrow a_n=2a_{n-1}+b_{n-1}+2=2a_{n-1}+(2a_{n-2}+1)+2=2a_{n-1}+2a_{n-2}+3.$&lt;/p>
+\right.&lt;/p>
 &lt;/details>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;p>Try thinking about the recurrence relation of these variants when there are more than&lt;/p>
-&lt;p>$3$ rods-&lt;/p>
+Try thinking about the recurrence relation of these variants when there are more than $3$ rods-
 &lt;/div>
 &lt;/div>
 &lt;p>For a detailed explanation and illustrations, please refer to &lt;a href="https://figshare.com/articles/journal_contribution/Moves_required_to_solve_Tower_of_Hanoi_and_2_variants_pdf/17091965" target="_blank" rel="noopener">the article&lt;/a>.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://cst0313.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://cst0313.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
@@ -190,7 +188,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-483519726" class="chart">&lt;/div>
+&lt;div id="chart-974682351" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -199,7 +197,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-483519726', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-974682351', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
