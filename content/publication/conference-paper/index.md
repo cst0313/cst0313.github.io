@@ -82,12 +82,8 @@ For the cyclic variant, we additionally define {{< math >}}$b_n${{< /math >}} as
 {{< math >}}$a_n$ is **not** $2b_n$. You can verify with the case $n=2$, obtaining $a_2=7$ and $b_2=5.$ (try it!){{< /math >}}
 {{% /callout %}}
 
-{{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}}$\left \{
-    \begin{array}{ll}
-      1, & \mbox{if $x<0$}. \\
-      0, & \mbox{otherwise}.
-    \end{array}
-  \right.$
+{{< spoiler text="The recurrence relation for the cyclic variant is" >}}{{< math >}}$$\begin{cases}a_n=2a_{n-1}+b_{n-1}+2& , \\
+b_n=2a_{n-1}+1 &.\end{cases}$$
 {{< /math >}}{{< /spoiler >}}
 
 {{% callout note %}}
