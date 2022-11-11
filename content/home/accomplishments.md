@@ -47,15 +47,6 @@ item:
     organization_url: https://www.edx.org
     title: Engineering Calculus and Differential Equations
     url: https://www.edx.org/course/engineering-calculus-and-differential-equations
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
-
 design:
   columns: '2'
 ---
