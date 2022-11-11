@@ -4,7 +4,7 @@ design:
     image: webb1.jpeg
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: contain
+    image_size: cover
     # Options include `left`, `center` (default), or `right`.
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
