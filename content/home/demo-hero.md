@@ -15,7 +15,7 @@ cta_note:
     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
 design:
   background:
-    image: webb1.png
+    image: webb1.jpeg
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
