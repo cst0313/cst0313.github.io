@@ -31,7 +31,8 @@ item:
     organization_url: https://www.coursera.org
     title: Ask Questions to Make Data-Driven Decisions
     url: ''
-      - certificate_url: https://www.coursera.org/account/accomplishments/certificate/VDN2L27CA52Y
+item:
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/VDN2L27CA52Y
     date_end: ''
     date_start: '2022-09-01'
     description: ''
@@ -39,6 +40,7 @@ item:
     organization_url: https://www.coursera.org
     title: Foundations: Data, Data, Everywhere
     url: ''
+item:
   - certificate_url: https://courses.nvidia.com/certificates/58d7acf45d5c4d3ba453972dcb2bedee/
     date_end: ''
     date_start: '2022-07-01'
@@ -47,6 +49,7 @@ item:
     organization_url: https://www.nvidia.org
     title: Getting Started with AI on Jetson Nano
     url: ''
+item:
   - certificate_url: https://courses.nvidia.com/certificates/564f2f8dded643e5a5ff4932c77b7b3f/
     date_end: ''
     date_start: '2022-04-01'
@@ -55,6 +58,7 @@ item:
     organization_url: https://www.nvidia.org
     title: Fundamentals of Deep Learning
     url: ''
+item:
   - certificate_url: https://courses.edx.org/certificates/4604df24b7064370b895265941ccbc22
     date_end: ''
     date_start: '2022-02-01'
