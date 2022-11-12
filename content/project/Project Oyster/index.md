@@ -1,6 +1,7 @@
 ---
 title: Project Oyster
 summary: Using physics-informed neural networks to reduce damage caused by invasive species
+tags:
 - Other
 date: "2022-07-01T00:00:00Z"
 
