@@ -56,5 +56,5 @@ item:
     title: Engineering Calculus and Differential Equations
     url: https://www.edx.org/course/engineering-calculus-and-differential-equations
 design:
-  columns: '3'
+  columns: '2'
 ---
