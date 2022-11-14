@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-07-01'
     description: ''
-    organization: Nvidia
+    organization: NVIDIA
     organization_url: https://www.nvidia.org
     title: Getting Started with AI on Jetson Nano
     url: ''
@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2022-04-01'
     description: ''
-    organization: Nvidia
+    organization: NVIDIA
     organization_url: https://www.nvidia.org
     title: Fundamentals of Deep Learning
     url: ''
