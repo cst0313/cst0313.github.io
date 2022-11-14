@@ -23,12 +23,20 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/6HNQGVK9HNBS
+    date_end: ''
+    date_start: '2022-09-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Ask Questions to Make Data-Driven Decisions
+    url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/VDN2L27CA52Y
     date_end: ''
     date_start: '2022-09-01'
     description: ''
     organization: Coursera
-    organization_url: https://www.nvidia.org
+    organization_url: https://www.coursera.org
     title: Foundations{{< math >}}$:${{< /math >}}Data, Data, Everywhere
     url: ''
   - certificate_url: https://courses.nvidia.com/certificates/58d7acf45d5c4d3ba453972dcb2bedee/
