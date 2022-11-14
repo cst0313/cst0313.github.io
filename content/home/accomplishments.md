@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.nvidia.org
-    title: Foundations {{< math >}}$:${{< /math >}}Data, Data, Everywhere
+    title: Foundations{{< math >}}$:${{< /math >}}Data, Data, Everywhere
     url: ''
   - certificate_url: https://courses.nvidia.com/certificates/58d7acf45d5c4d3ba453972dcb2bedee/
     date_end: ''
