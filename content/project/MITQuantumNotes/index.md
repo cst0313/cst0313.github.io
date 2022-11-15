@@ -8,12 +8,15 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-url_code: https://cst0313.github.io/MITx-QuantumMechanics/quantum-mechanics-mit-8-04x.html
+links:
+  - icon: note
+    icon_pack: fab
+    name: Link to notes
+    url: https://cst0313.github.io/MITx-QuantumMechanics/quantum-mechanics-mit-8-04x.html
 
 image:
   caption: Quantum
   focal_point: Smart
 ---
 
-Lecture 1 and 2 covers: 
-# point form later
+Lecture 1 and 2 covers: (...)
