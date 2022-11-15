@@ -10,7 +10,7 @@ external_link: ''
 
 links:
   - icon: note
-    icon_pack: fas
+    icon_pack: far
     name: Link to notes
     url: https://cst0313.github.io/MITx-QuantumMechanics/quantum-mechanics-mit-8-04x.html
 
