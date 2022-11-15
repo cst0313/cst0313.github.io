@@ -6,7 +6,8 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://cst0313.github.io/mitx-quantummechanics
+external_link: ''
+url_code: https://cst0313.github.io/mitx-quantummechanics
 
 image:
   caption: Quantum
