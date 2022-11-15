@@ -1,6 +1,6 @@
 ---
 title: Quantum Mechanics Notes
-summary: Notes I take for the MITxT 8.04x Quantum Mechanics: A First Course! Feel free to check them out.
+summary: Notes I take for the MITxT 8.04x Quantum Mechanics{{<math>}}:{{</math>}} A First Course! Feel free to check them out.
 tags:
 - Quantum 
 date: "2016-04-27T00:00:00Z"
