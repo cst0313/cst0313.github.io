@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
+    - name: Quantum-related
+      tag: Quantum
     - name: Other
       tag: Other
 
