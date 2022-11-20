@@ -3,7 +3,7 @@ title: A note to fellow Olympians
 subtitle: tl:dr; Use the skills earned in classes to impact the society, but not to grab medals.
 
 # Summary for listings and search engines
-summary: My note to students of training camps for Olympiads
+summary: My note to students of training camps for high school Olympiads
 
 # Link this post with a project
 projects: []
@@ -40,7 +40,9 @@ authors:
 
 
 
-## Overview
+## Background of me and Olympiads
+
+If you don't know what Olympiads are, no worries! They're basically competitions on national or international levels on particular subjects. Some among them, like the International Mathematical Olympiads (IMO) are famouns 
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
