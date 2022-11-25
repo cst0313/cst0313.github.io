@@ -5,7 +5,7 @@
 &lt;/details>
 A previous student from Hong Kong who won in both the &amp;ldquo;Scientist and Mathematician&amp;rdquo; and &amp;ldquo;Grand Prize&amp;rdquo; categories, Dylan, got into my dream school, MIT. &amp;ldquo;Perhaps if I won the award, I would have a better chance at getting in,&amp;rdquo; the naïve me thought back then. Looking back right now, I notice that however many awards I got, I would still be me. If someone suddenly gave me a medal, I wouldn&amp;rsquo;t be better in any way than my original self without the medal.&lt;/p>
 &lt;p>After filling in a whole application form, getting the principal&amp;rsquo;s signature and scanning dozens of my certificates, combining them into a pdf file, I submitted the application to my teacher with hope. Unfortunately, except from getting an email from SCMP giving me one month of free subscription, there was nothing. I witnessed as others in the training camp got their final interview offers, one by one. My heart sank deeper and deeper. In the end, I was heartbroken to find some &amp;ldquo;management procedures&amp;rdquo; had gone wrong, and the judging panel didn&amp;rsquo;t even have the chance to consider my application. Not even a confirmation or rejection letter. And that was the end of my supposed journey in the academic year.&lt;/p>
-&lt;p>This year, the Hong Kong Academy for Gifted Education (HKAGE) started a nomination scheme; those from Secondary 4 to Secondary 6 who were HKAGE members could apply through them and gain their nomination. As I am writing this, the 12:00 deadline is approaching to submit their application form. This being the first year that HKAGE could directly nominate students,&lt;/p></description></item><item><title>A note to fellow Olympians</title><link>https://cst0313.github.io/post/words-to-olympians/</link><pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate><guid>https://cst0313.github.io/post/words-to-olympians/</guid><description>&lt;h2 id="background-of-me-and-olympiads">Background of me and Olympiads&lt;/h2>
+&lt;p>This year, the Hong Kong Academy for Gifted Education (HKAGE) started a nomination scheme; those from Secondary 4 to Secondary 6 who were HKAGE members could apply through them and gain their nomination. As I am writing this, the 12:00 deadline is approaching to submit their application form. This being the first year that HKAGE could directly nominate students, I knew I would stand out amongst other applicants applying from their respective schools if I chose to go down the HKAGE path. It was a promising choice.&lt;/p></description></item><item><title>A note to fellow Olympians</title><link>https://cst0313.github.io/post/words-to-olympians/</link><pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate><guid>https://cst0313.github.io/post/words-to-olympians/</guid><description>&lt;h2 id="background-of-me-and-olympiads">Background of me and Olympiads&lt;/h2>
 &lt;p>If you don&amp;rsquo;t know what Olympiads are, no worries! They&amp;rsquo;re basically competitions on national or international levels on particular subjects. Some among them, like the International Mathematical Olympiads (IMO) are famous among the science community.&lt;/p>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
@@ -184,7 +184,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-256381974" class="chart">&lt;/div>
+&lt;div id="chart-136984572" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -193,7 +193,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-256381974', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-136984572', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
