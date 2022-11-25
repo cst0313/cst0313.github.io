@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/PBC82ABMA4NV
     date_end: '2022-11-15'
-    date_start: ''
+    date_start: '2022-10-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
