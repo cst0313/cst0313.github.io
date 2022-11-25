@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Jeffrey Chang</title><link>https://cst0313.github.io/post/</link><atom:link href="https://cst0313.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><image><url>https://cst0313.github.io/media/icon_hu4c9aa3847e810c3759e6bf62f6ef7c50_522333_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://cst0313.github.io/post/</link></image><item><title>A note to fellow Olympians</title><link>https://cst0313.github.io/post/words-to-olympians/</link><pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate><guid>https://cst0313.github.io/post/words-to-olympians/</guid><description>&lt;h2 id="background-of-me-and-olympiads">Background of me and Olympiads&lt;/h2>
-&lt;p>If you don&amp;rsquo;t know what Olympiads are, no worries! They&amp;rsquo;re basically competitions on national or international levels on particular subjects. Some among them, like the International Mathematical Olympiads (IMO) are famouns&lt;/p>
+&lt;p>If you don&amp;rsquo;t know what Olympiads are, no worries! They&amp;rsquo;re basically competitions on national or international levels on particular subjects. Some among them, like the International Mathematical Olympiads (IMO) are famous among the science community.&lt;/p>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
@@ -177,7 +177,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-483257961" class="chart">&lt;/div>
+&lt;div id="chart-413257986" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -186,7 +186,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-483257961', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-413257986', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
