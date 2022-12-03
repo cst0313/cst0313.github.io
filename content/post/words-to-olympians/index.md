@@ -42,7 +42,8 @@ authors:
 
 ## Background of me and Olympiads
 
-If you don't know what Olympiads are, no worries! They're basically competitions on national or international levels on particular subjects. Some among them, like the International Mathematical Olympiads (IMO) are famous among the science community.
+If you don't know what Olympiads are, no worries! They're basically competitions on national or international levels on particular subjects. Some among them, like the International Mathematical Olympiads (IMO) are famous among the science community. If you get a medal in these competitions, you're pretty good at the subjects, and have great potential. 
+As cool and amazing getting a medal in an international competition sounds like, most have worked day and night to get even a shot to represent their country. I know this, since I was one of those kids.
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
