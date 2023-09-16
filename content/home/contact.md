@@ -21,17 +21,6 @@ content:
   # Contact details (edit or remove options as required)
   email: jeffreychang@ieee.org
   phone: +852 5542 4135
-  address:
-    street: 560 King's Road
-    city: Hong Kong
-    region: HK
-    postcode: ''
-    country: Hong Kong
-    country_code: HK
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: 20/F, Room 2005
   office_hours:
     - 'Weekdays 16:00 to 20:00'
     - 'Weekends 09:00 to 20:00'
